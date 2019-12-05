@@ -1,0 +1,4267 @@
+fileFormatVersion: 2
+guid: 742712c9cd6ad7645b9e4fc85c761cbe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3264704105465696899
+    second: trzcacak.rs-smoke-texture-png-1156443_0
+  - first:
+      213: -4447171982828628269
+    second: trzcacak.rs-smoke-texture-png-1156443_1
+  - first:
+      213: 8762379880168884068
+    second: trzcacak.rs-smoke-texture-png-1156443_2
+  - first:
+      213: -5634762348013448982
+    second: trzcacak.rs-smoke-texture-png-1156443_3
+  - first:
+      213: -2417871534974542617
+    second: trzcacak.rs-smoke-texture-png-1156443_4
+  - first:
+      213: -45677988912928612
+    second: trzcacak.rs-smoke-texture-png-1156443_5
+  - first:
+      213: 8601015357876010269
+    second: trzcacak.rs-smoke-texture-png-1156443_6
+  - first:
+      213: -1190342375584465760
+    second: trzcacak.rs-smoke-texture-png-1156443_7
+  - first:
+      213: -7697333986528521228
+    second: trzcacak.rs-smoke-texture-png-1156443_8
+  - first:
+      213: 3342283064129500639
+    second: trzcacak.rs-smoke-texture-png-1156443_9
+  - first:
+      213: 4657638656483085541
+    second: trzcacak.rs-smoke-texture-png-1156443_10
+  - first:
+      213: -3566908206254544435
+    second: trzcacak.rs-smoke-texture-png-1156443_11
+  - first:
+      213: 3604333190276316513
+    second: trzcacak.rs-smoke-texture-png-1156443_12
+  - first:
+      213: 4734031726205277456
+    second: trzcacak.rs-smoke-texture-png-1156443_13
+  - first:
+      213: -1786920297134328665
+    second: trzcacak.rs-smoke-texture-png-1156443_14
+  - first:
+      213: 5298399913656115316
+    second: trzcacak.rs-smoke-texture-png-1156443_15
+  - first:
+      213: 6450885069461186317
+    second: trzcacak.rs-smoke-texture-png-1156443_16
+  - first:
+      213: 1834576549854769764
+    second: trzcacak.rs-smoke-texture-png-1156443_17
+  - first:
+      213: -1555423232716710133
+    second: trzcacak.rs-smoke-texture-png-1156443_18
+  - first:
+      213: -7650297841362355514
+    second: trzcacak.rs-smoke-texture-png-1156443_19
+  - first:
+      213: 4316582487839131153
+    second: trzcacak.rs-smoke-texture-png-1156443_20
+  - first:
+      213: -5491658487901500029
+    second: trzcacak.rs-smoke-texture-png-1156443_21
+  - first:
+      213: 1674129463853489271
+    second: trzcacak.rs-smoke-texture-png-1156443_22
+  - first:
+      213: 2135692526314367642
+    second: trzcacak.rs-smoke-texture-png-1156443_23
+  - first:
+      213: 7402082677850425506
+    second: trzcacak.rs-smoke-texture-png-1156443_24
+  - first:
+      213: 7228327601721194099
+    second: trzcacak.rs-smoke-texture-png-1156443_25
+  - first:
+      213: 135703470172502342
+    second: trzcacak.rs-smoke-texture-png-1156443_26
+  - first:
+      213: -1256304514271759802
+    second: trzcacak.rs-smoke-texture-png-1156443_27
+  - first:
+      213: 3060607194086688781
+    second: trzcacak.rs-smoke-texture-png-1156443_28
+  - first:
+      213: 1506828164775734834
+    second: trzcacak.rs-smoke-texture-png-1156443_29
+  - first:
+      213: -1279824902761689849
+    second: trzcacak.rs-smoke-texture-png-1156443_30
+  - first:
+      213: -7248340538274417997
+    second: trzcacak.rs-smoke-texture-png-1156443_31
+  - first:
+      213: -6804116808520309362
+    second: trzcacak.rs-smoke-texture-png-1156443_32
+  - first:
+      213: 1405584018226868078
+    second: trzcacak.rs-smoke-texture-png-1156443_33
+  - first:
+      213: 1780746937442933662
+    second: trzcacak.rs-smoke-texture-png-1156443_34
+  - first:
+      213: -8622824576850065442
+    second: trzcacak.rs-smoke-texture-png-1156443_35
+  - first:
+      213: 1645835243696035442
+    second: trzcacak.rs-smoke-texture-png-1156443_36
+  - first:
+      213: 9001494699327236237
+    second: trzcacak.rs-smoke-texture-png-1156443_37
+  - first:
+      213: -4123009312270815007
+    second: trzcacak.rs-smoke-texture-png-1156443_38
+  - first:
+      213: -2211939529910918441
+    second: trzcacak.rs-smoke-texture-png-1156443_39
+  - first:
+      213: -6773351569248185800
+    second: trzcacak.rs-smoke-texture-png-1156443_40
+  - first:
+      213: -8900572700435433390
+    second: trzcacak.rs-smoke-texture-png-1156443_41
+  - first:
+      213: -3375579807537634610
+    second: trzcacak.rs-smoke-texture-png-1156443_42
+  - first:
+      213: 1568314484047948943
+    second: trzcacak.rs-smoke-texture-png-1156443_43
+  - first:
+      213: -3444812229242965513
+    second: trzcacak.rs-smoke-texture-png-1156443_44
+  - first:
+      213: 2792084008761119842
+    second: trzcacak.rs-smoke-texture-png-1156443_45
+  - first:
+      213: -7420624339999937694
+    second: trzcacak.rs-smoke-texture-png-1156443_46
+  - first:
+      213: -5404668032238506284
+    second: trzcacak.rs-smoke-texture-png-1156443_47
+  - first:
+      213: -6359825144094946251
+    second: trzcacak.rs-smoke-texture-png-1156443_48
+  - first:
+      213: -7433399870287692587
+    second: trzcacak.rs-smoke-texture-png-1156443_49
+  - first:
+      213: -4508926877283916745
+    second: trzcacak.rs-smoke-texture-png-1156443_50
+  - first:
+      213: -8317825004273959359
+    second: trzcacak.rs-smoke-texture-png-1156443_51
+  - first:
+      213: -5197640995252584868
+    second: trzcacak.rs-smoke-texture-png-1156443_52
+  - first:
+      213: 6985606603474091277
+    second: trzcacak.rs-smoke-texture-png-1156443_53
+  - first:
+      213: 7017743242070370689
+    second: trzcacak.rs-smoke-texture-png-1156443_54
+  - first:
+      213: 8842381761313006201
+    second: trzcacak.rs-smoke-texture-png-1156443_55
+  - first:
+      213: -6954813361274121183
+    second: trzcacak.rs-smoke-texture-png-1156443_56
+  - first:
+      213: 3110645783671914544
+    second: trzcacak.rs-smoke-texture-png-1156443_57
+  - first:
+      213: -6676042609297647066
+    second: trzcacak.rs-smoke-texture-png-1156443_58
+  - first:
+      213: -7785327051440106464
+    second: trzcacak.rs-smoke-texture-png-1156443_59
+  - first:
+      213: -7818506086584732094
+    second: trzcacak.rs-smoke-texture-png-1156443_60
+  - first:
+      213: -8770729865623777664
+    second: trzcacak.rs-smoke-texture-png-1156443_61
+  - first:
+      213: -4050366490743191896
+    second: trzcacak.rs-smoke-texture-png-1156443_62
+  - first:
+      213: 6223250290954996091
+    second: trzcacak.rs-smoke-texture-png-1156443_63
+  - first:
+      213: 2177891303233852433
+    second: trzcacak.rs-smoke-texture-png-1156443_64
+  - first:
+      213: 4391090769681871137
+    second: trzcacak.rs-smoke-texture-png-1156443_65
+  - first:
+      213: 3612867801694675629
+    second: trzcacak.rs-smoke-texture-png-1156443_66
+  - first:
+      213: 148183350731425853
+    second: trzcacak.rs-smoke-texture-png-1156443_67
+  - first:
+      213: 7735521807355044482
+    second: trzcacak.rs-smoke-texture-png-1156443_68
+  - first:
+      213: -8752487689356865680
+    second: trzcacak.rs-smoke-texture-png-1156443_69
+  - first:
+      213: -671842625434384390
+    second: trzcacak.rs-smoke-texture-png-1156443_70
+  - first:
+      213: -4779005008429926624
+    second: trzcacak.rs-smoke-texture-png-1156443_71
+  - first:
+      213: 7874163260622216026
+    second: trzcacak.rs-smoke-texture-png-1156443_72
+  - first:
+      213: 6423832548429889594
+    second: trzcacak.rs-smoke-texture-png-1156443_73
+  - first:
+      213: 1773126083079027034
+    second: trzcacak.rs-smoke-texture-png-1156443_74
+  - first:
+      213: -4438328747115285122
+    second: trzcacak.rs-smoke-texture-png-1156443_75
+  - first:
+      213: -8425558902256826540
+    second: trzcacak.rs-smoke-texture-png-1156443_76
+  - first:
+      213: 2370970175398137380
+    second: trzcacak.rs-smoke-texture-png-1156443_77
+  - first:
+      213: -6943205496666695013
+    second: trzcacak.rs-smoke-texture-png-1156443_78
+  - first:
+      213: -2315345996579374193
+    second: trzcacak.rs-smoke-texture-png-1156443_79
+  - first:
+      213: 8344859117139146376
+    second: trzcacak.rs-smoke-texture-png-1156443_80
+  - first:
+      213: -3620061451045607627
+    second: trzcacak.rs-smoke-texture-png-1156443_81
+  - first:
+      213: 303979956788128670
+    second: trzcacak.rs-smoke-texture-png-1156443_82
+  - first:
+      213: -8088671857281639542
+    second: trzcacak.rs-smoke-texture-png-1156443_83
+  - first:
+      213: 5221007598726097268
+    second: trzcacak.rs-smoke-texture-png-1156443_84
+  - first:
+      213: -1736420077964486323
+    second: trzcacak.rs-smoke-texture-png-1156443_85
+  - first:
+      213: 5592311637754548730
+    second: trzcacak.rs-smoke-texture-png-1156443_86
+  - first:
+      213: -3252098536159475930
+    second: trzcacak.rs-smoke-texture-png-1156443_87
+  - first:
+      213: -6655465278890788008
+    second: trzcacak.rs-smoke-texture-png-1156443_88
+  - first:
+      213: -6845833985885507321
+    second: trzcacak.rs-smoke-texture-png-1156443_89
+  - first:
+      213: -8543887358651032213
+    second: trzcacak.rs-smoke-texture-png-1156443_90
+  - first:
+      213: -3414336966408491686
+    second: trzcacak.rs-smoke-texture-png-1156443_91
+  - first:
+      213: 285039040805405974
+    second: trzcacak.rs-smoke-texture-png-1156443_92
+  - first:
+      213: -7616015661908519289
+    second: trzcacak.rs-smoke-texture-png-1156443_93
+  - first:
+      213: 1372880429936625540
+    second: trzcacak.rs-smoke-texture-png-1156443_94
+  - first:
+      213: 2844917278639778804
+    second: trzcacak.rs-smoke-texture-png-1156443_95
+  - first:
+      213: 7480014820292460945
+    second: trzcacak.rs-smoke-texture-png-1156443_96
+  - first:
+      213: 6562942128722733455
+    second: trzcacak.rs-smoke-texture-png-1156443_97
+  - first:
+      213: -462683082821000694
+    second: trzcacak.rs-smoke-texture-png-1156443_98
+  - first:
+      213: 3397588882396055396
+    second: trzcacak.rs-smoke-texture-png-1156443_99
+  - first:
+      213: -7697067163252912777
+    second: trzcacak.rs-smoke-texture-png-1156443_100
+  - first:
+      213: -3992258387627234629
+    second: trzcacak.rs-smoke-texture-png-1156443_101
+  - first:
+      213: -6341846590056580627
+    second: trzcacak.rs-smoke-texture-png-1156443_102
+  - first:
+      213: 91739586075347345
+    second: trzcacak.rs-smoke-texture-png-1156443_103
+  - first:
+      213: 8233585767308079090
+    second: trzcacak.rs-smoke-texture-png-1156443_104
+  - first:
+      213: -2286158323102457333
+    second: trzcacak.rs-smoke-texture-png-1156443_105
+  - first:
+      213: 7192319405853101553
+    second: trzcacak.rs-smoke-texture-png-1156443_106
+  - first:
+      213: -2704992614633038518
+    second: trzcacak.rs-smoke-texture-png-1156443_107
+  - first:
+      213: 5519588030818743861
+    second: trzcacak.rs-smoke-texture-png-1156443_108
+  - first:
+      213: -874658313750250123
+    second: trzcacak.rs-smoke-texture-png-1156443_109
+  - first:
+      213: -4107143900870797388
+    second: trzcacak.rs-smoke-texture-png-1156443_110
+  - first:
+      213: 2189155546156442187
+    second: trzcacak.rs-smoke-texture-png-1156443_111
+  - first:
+      213: -212678063245510591
+    second: trzcacak.rs-smoke-texture-png-1156443_112
+  - first:
+      213: -306737879386537971
+    second: trzcacak.rs-smoke-texture-png-1156443_113
+  - first:
+      213: -1270994267155039527
+    second: trzcacak.rs-smoke-texture-png-1156443_114
+  - first:
+      213: 5380119301425899568
+    second: trzcacak.rs-smoke-texture-png-1156443_115
+  - first:
+      213: -1343126090959784282
+    second: trzcacak.rs-smoke-texture-png-1156443_116
+  - first:
+      213: 5891260738208703149
+    second: trzcacak.rs-smoke-texture-png-1156443_117
+  - first:
+      213: -1420110057773331816
+    second: trzcacak.rs-smoke-texture-png-1156443_118
+  - first:
+      213: -2418187443115482840
+    second: trzcacak.rs-smoke-texture-png-1156443_119
+  - first:
+      213: -8928498998323508361
+    second: trzcacak.rs-smoke-texture-png-1156443_120
+  - first:
+      213: -6445028604814649136
+    second: trzcacak.rs-smoke-texture-png-1156443_121
+  - first:
+      213: -8168291164306352283
+    second: trzcacak.rs-smoke-texture-png-1156443_122
+  - first:
+      213: -2926659794542175364
+    second: trzcacak.rs-smoke-texture-png-1156443_123
+  - first:
+      213: -6082515629135582166
+    second: trzcacak.rs-smoke-texture-png-1156443_124
+  - first:
+      213: -4435136707814070123
+    second: trzcacak.rs-smoke-texture-png-1156443_125
+  - first:
+      213: 1754489962824646084
+    second: trzcacak.rs-smoke-texture-png-1156443_126
+  - first:
+      213: -2327970659235882665
+    second: trzcacak.rs-smoke-texture-png-1156443_127
+  - first:
+      213: -6433558606704654211
+    second: trzcacak.rs-smoke-texture-png-1156443_128
+  - first:
+      213: 8676102800058847054
+    second: trzcacak.rs-smoke-texture-png-1156443_129
+  - first:
+      213: 7715659244471456188
+    second: trzcacak.rs-smoke-texture-png-1156443_130
+  - first:
+      213: 1826506450749433384
+    second: trzcacak.rs-smoke-texture-png-1156443_131
+  - first:
+      213: 9148557238423856263
+    second: trzcacak.rs-smoke-texture-png-1156443_132
+  - first:
+      213: -4912421074259989527
+    second: trzcacak.rs-smoke-texture-png-1156443_133
+  - first:
+      213: -701507875974951989
+    second: trzcacak.rs-smoke-texture-png-1156443_134
+  - first:
+      213: -460116974435006133
+    second: trzcacak.rs-smoke-texture-png-1156443_135
+  - first:
+      213: -2319484451750450376
+    second: trzcacak.rs-smoke-texture-png-1156443_136
+  - first:
+      213: -191015125339945212
+    second: trzcacak.rs-smoke-texture-png-1156443_137
+  - first:
+      213: 8974915678726679028
+    second: trzcacak.rs-smoke-texture-png-1156443_138
+  - first:
+      213: 1970946350631375868
+    second: trzcacak.rs-smoke-texture-png-1156443_139
+  - first:
+      213: -1997599279202117908
+    second: trzcacak.rs-smoke-texture-png-1156443_140
+  - first:
+      213: 8659331071322653214
+    second: trzcacak.rs-smoke-texture-png-1156443_141
+  - first:
+      213: 4322123535709398395
+    second: trzcacak.rs-smoke-texture-png-1156443_142
+  - first:
+      213: -3552896259548912488
+    second: trzcacak.rs-smoke-texture-png-1156443_143
+  - first:
+      213: -5689839308685505136
+    second: trzcacak.rs-smoke-texture-png-1156443_144
+  - first:
+      213: -2177193630554826259
+    second: trzcacak.rs-smoke-texture-png-1156443_145
+  - first:
+      213: 7409474938238206396
+    second: trzcacak.rs-smoke-texture-png-1156443_146
+  - first:
+      213: -5809033415355495420
+    second: trzcacak.rs-smoke-texture-png-1156443_147
+  - first:
+      213: -2243575490291222882
+    second: trzcacak.rs-smoke-texture-png-1156443_148
+  - first:
+      213: -5936842446707308262
+    second: trzcacak.rs-smoke-texture-png-1156443_149
+  - first:
+      213: -6525627305451699683
+    second: trzcacak.rs-smoke-texture-png-1156443_150
+  - first:
+      213: 7480259635941840474
+    second: trzcacak.rs-smoke-texture-png-1156443_151
+  - first:
+      213: 1553744616266401877
+    second: trzcacak.rs-smoke-texture-png-1156443_152
+  - first:
+      213: -8654099140344182704
+    second: trzcacak.rs-smoke-texture-png-1156443_153
+  - first:
+      213: 2452626596123515329
+    second: trzcacak.rs-smoke-texture-png-1156443_154
+  - first:
+      213: -995556990134991561
+    second: trzcacak.rs-smoke-texture-png-1156443_155
+  - first:
+      213: 2549123415349013339
+    second: trzcacak.rs-smoke-texture-png-1156443_156
+  - first:
+      213: -3989385208424229853
+    second: trzcacak.rs-smoke-texture-png-1156443_157
+  - first:
+      213: -2851792248842159918
+    second: trzcacak.rs-smoke-texture-png-1156443_158
+  - first:
+      213: -3065974575547968899
+    second: trzcacak.rs-smoke-texture-png-1156443_159
+  - first:
+      213: -6557969480590649738
+    second: trzcacak.rs-smoke-texture-png-1156443_160
+  - first:
+      213: -4271173086937213476
+    second: trzcacak.rs-smoke-texture-png-1156443_161
+  - first:
+      213: -1963148177638077972
+    second: trzcacak.rs-smoke-texture-png-1156443_162
+  - first:
+      213: -6897949568731707862
+    second: trzcacak.rs-smoke-texture-png-1156443_163
+  - first:
+      213: -7024389466567567929
+    second: trzcacak.rs-smoke-texture-png-1156443_164
+  - first:
+      213: -8885778870374971470
+    second: trzcacak.rs-smoke-texture-png-1156443_165
+  - first:
+      213: -4639257152035043550
+    second: trzcacak.rs-smoke-texture-png-1156443_166
+  - first:
+      213: -6336491018509457050
+    second: trzcacak.rs-smoke-texture-png-1156443_167
+  - first:
+      213: -8876823689263385067
+    second: trzcacak.rs-smoke-texture-png-1156443_168
+  - first:
+      213: 526173429956094516
+    second: trzcacak.rs-smoke-texture-png-1156443_169
+  - first:
+      213: -6077564164489277970
+    second: trzcacak.rs-smoke-texture-png-1156443_170
+  - first:
+      213: 5729195201107968595
+    second: trzcacak.rs-smoke-texture-png-1156443_171
+  - first:
+      213: -183020932677576495
+    second: trzcacak.rs-smoke-texture-png-1156443_172
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_0
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 1985
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad90890c8fed47468709e4b6ab61a5b
+      internalID: 3264704105465696899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_1
+      rect:
+        serializedVersion: 2
+        x: 2159
+        y: 1835
+        width: 178
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d7af988b840834fa1da3a5a2dfe3b3
+      internalID: -4447171982828628269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_2
+      rect:
+        serializedVersion: 2
+        x: 2497
+        y: 1829
+        width: 186
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a827c647d59697c48a6ea0764c03dbaf
+      internalID: 8762379880168884068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_3
+      rect:
+        serializedVersion: 2
+        x: 2835
+        y: 1825
+        width: 192
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2041f9f8b1b17044a91b555a75cfada3
+      internalID: -5634762348013448982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_4
+      rect:
+        serializedVersion: 2
+        x: 3173
+        y: 1821
+        width: 198
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6a7f929498ad64d94b32c6dfb2e117
+      internalID: -2417871534974542617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_5
+      rect:
+        serializedVersion: 2
+        x: 3511
+        y: 1819
+        width: 204
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e62a66cbcbba84aa35e338f5ee8eb7
+      internalID: -45677988912928612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_6
+      rect:
+        serializedVersion: 2
+        x: 3847
+        y: 1811
+        width: 212
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074f22429f22f064b824353aa81fdf06
+      internalID: 8601015357876010269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_7
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1867
+        width: 80
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253b47ccc5056de45b9cb90125d032a8
+      internalID: -1190342375584465760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_8
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1849
+        width: 106
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697fc85359432e0499d19aac4d0ce575
+      internalID: -7697333986528521228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_9
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1847
+        width: 112
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4748ac34d5f91eb48b03cfdf58f9a5e7
+      internalID: 3342283064129500639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_10
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1845
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd04ae086f92f9044ac828b4ad847acc
+      internalID: 4657638656483085541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_11
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 1839
+        width: 144
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bce64e2c01ded4438b4792551ade5a8
+      internalID: -3566908206254544435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_12
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 1837
+        width: 164
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6044365c8fdbadf4eb771ce132888128
+      internalID: 3604333190276316513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_13
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1523
+        width: 220
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c435b46126b0b645a5e67975293e5c7
+      internalID: 4734031726205277456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_14
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1521
+        width: 226
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47bbda80f2f8843448c72ea46098618c
+      internalID: -1786920297134328665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_15
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 1519
+        width: 234
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ccd89d76226b5b429967eaf26e9e3c7
+      internalID: 5298399913656115316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_16
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1517
+        width: 240
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7803fa919a9b14b46b3f7669d93a9933
+      internalID: 6450885069461186317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_17
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 1513
+        width: 248
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea6e9eae485fc944bfe7185408e7fa2
+      internalID: 1834576549854769764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_18
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 1509
+        width: 254
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced9dd36b0ffb6b4b8e57394af7159db
+      internalID: -1555423232716710133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_19
+      rect:
+        serializedVersion: 2
+        x: 2113
+        y: 1507
+        width: 260
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc17797c5ac2014f95405fc81e36145
+      internalID: -7650297841362355514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_20
+      rect:
+        serializedVersion: 2
+        x: 2451
+        y: 1503
+        width: 264
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b158ad2e66d90b243bd4963c07583fbd
+      internalID: 4316582487839131153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_21
+      rect:
+        serializedVersion: 2
+        x: 2789
+        y: 1501
+        width: 270
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf7650e9fb95e245adfcec2756dff86
+      internalID: -5491658487901500029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_22
+      rect:
+        serializedVersion: 2
+        x: 3127
+        y: 1497
+        width: 276
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0eb5e0c998050944a1f72a087f4c46a
+      internalID: 1674129463853489271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_23
+      rect:
+        serializedVersion: 2
+        x: 3465
+        y: 1495
+        width: 280
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6383db2f2a2bc5419c92c9bdd83e249
+      internalID: 2135692526314367642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_24
+      rect:
+        serializedVersion: 2
+        x: 3805
+        y: 1493
+        width: 282
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08bc412c1d8890a45962fa4485acf1e9
+      internalID: 7402082677850425506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_25
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1519
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46a439f35ec7ea42951b80626b071ce
+      internalID: 7228327601721194099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_26
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1197
+        width: 288
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc4fe655027d084181c3d4d6fe22077
+      internalID: 135703470172502342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_27
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1195
+        width: 292
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe86018dceab4e4797fcaec638e6233
+      internalID: -1256304514271759802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_28
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1193
+        width: 296
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9791c8869c83a3147a43053a9015aa4d
+      internalID: 3060607194086688781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_29
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 1191
+        width: 298
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abeb13b9a37c8a1469ec5ca01510dc06
+      internalID: 1506828164775734834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_30
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 1189
+        width: 300
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a300dc506447c4a9f432fa22808805
+      internalID: -1279824902761689849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_31
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 1187
+        width: 302
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3f50961517412478415e205dd4a06b
+      internalID: -7248340538274417997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_32
+      rect:
+        serializedVersion: 2
+        x: 2081
+        y: 1185
+        width: 306
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab76506c7631624dbb5f62cddd2dff7
+      internalID: -6804116808520309362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_33
+      rect:
+        serializedVersion: 2
+        x: 2421
+        y: 1183
+        width: 310
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222944485f17c61469159b01504c472d
+      internalID: 1405584018226868078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_34
+      rect:
+        serializedVersion: 2
+        x: 2759
+        y: 1181
+        width: 312
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b224bd018a91944a7aea7cea5af369
+      internalID: 1780746937442933662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_35
+      rect:
+        serializedVersion: 2
+        x: 3099
+        y: 1179
+        width: 314
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd57e39e6a8c99c4795fe74a08550785
+      internalID: -8622824576850065442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_36
+      rect:
+        serializedVersion: 2
+        x: 3439
+        y: 1179
+        width: 316
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2e4025c10539141bfd39b26a0871a6
+      internalID: 1645835243696035442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_37
+      rect:
+        serializedVersion: 2
+        x: 3777
+        y: 1177
+        width: 320
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b8e472f7d63c040abc75da6d4425b4
+      internalID: 9001494699327236237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_38
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 884
+        width: 324
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7766ec8454a139c47a402dba1037a066
+      internalID: -4123009312270815007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_39
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 882
+        width: 324
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53a51a6d1681ee49945bd37a757636a
+      internalID: -2211939529910918441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_40
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 880
+        width: 326
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66d21aa1f3d70e4e907f1ab7cf2b350
+      internalID: -6773351569248185800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_41
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 880
+        width: 330
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f359fa11085f5140afa7b228c52acf1
+      internalID: -8900572700435433390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_42
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 878
+        width: 330
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3545a95ebe63e994b94adff9c56374ec
+      internalID: -3375579807537634610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_43
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 876
+        width: 335
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e467f30ba9f0d1499072fe9ee3d0fc0
+      internalID: 1568314484047948943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_44
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 876
+        width: 336
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6851f1075d9fee84783e8a116b4d8c7f
+      internalID: -3444812229242965513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_45
+      rect:
+        serializedVersion: 2
+        x: 2397
+        y: 876
+        width: 336
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e9b95d3bb10884e87cd5617d0bc8ae
+      internalID: 2792084008761119842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_46
+      rect:
+        serializedVersion: 2
+        x: 2735
+        y: 876
+        width: 340
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45a90db42679b947926c038c31ad6ca
+      internalID: -7420624339999937694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_47
+      rect:
+        serializedVersion: 2
+        x: 3075
+        y: 876
+        width: 342
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ab6b7df06471241860d09822c38d48
+      internalID: -5404668032238506284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_48
+      rect:
+        serializedVersion: 2
+        x: 3413
+        y: 876
+        width: 344
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7005d68eca278654aaa67d95b6697280
+      internalID: -6359825144094946251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_49
+      rect:
+        serializedVersion: 2
+        x: 3755
+        y: 876
+        width: 342
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ea00c72e3a4b24ea558b636e2eb80e
+      internalID: -7433399870287692587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 174
+        width: 3379
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a815d8a61d3eff940a019c8643fc99fb
+      internalID: -4508926877283916745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 584
+        width: 344
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e89fe4dc619ff4ab1276c5a461abcb
+      internalID: -8317825004273959359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_52
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 584
+        width: 344
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc3a623485cd0d4eba9cca2ae96747b
+      internalID: -5197640995252584868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_53
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 584
+        width: 344
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f9bfc2f07cad34abd2fc394d39067c
+      internalID: 6985606603474091277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_54
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 584
+        width: 346
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711054f64ed3e094d9311b97cff13b17
+      internalID: 7017743242070370689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_55
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 584
+        width: 344
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f767a004bcf03104aa587ec551142dcc
+      internalID: 8842381761313006201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_56
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 584
+        width: 345
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca27b7014e63d04b8df1adc46ed4a5c
+      internalID: -6954813361274121183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_57
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 584
+        width: 347
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a326bb07b29ca458014a7c35fc35f5
+      internalID: 3110645783671914544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_58
+      rect:
+        serializedVersion: 2
+        x: 2389
+        y: 584
+        width: 344
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d059781a3452f4fbaf4777f1c8968c
+      internalID: -6676042609297647066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_59
+      rect:
+        serializedVersion: 2
+        x: 2729
+        y: 584
+        width: 1368
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3496f9b6d8369a448f283fbff9f41d9
+      internalID: -7785327051440106464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_60
+      rect:
+        serializedVersion: 2
+        x: 3381
+        y: 292
+        width: 334
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b900c25cff2b5ef4da288dd4b496f0f1
+      internalID: -7818506086584732094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_61
+      rect:
+        serializedVersion: 2
+        x: 3727
+        y: 292
+        width: 328
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24cabe9f26310e04abbd787157d2ed45
+      internalID: -8770729865623777664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_62
+      rect:
+        serializedVersion: 2
+        x: 3709
+        y: 428
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664aa24b36c6ed5409d6a361e1022c3d
+      internalID: -4050366490743191896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_63
+      rect:
+        serializedVersion: 2
+        x: 4071
+        y: 436
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c49589b252a4a46b2c6ea68b975d3c
+      internalID: 6223250290954996091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_64
+      rect:
+        serializedVersion: 2
+        x: 4055
+        y: 432
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1284bb2e67dce99448c1d954ae61db5a
+      internalID: 2177891303233852433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_65
+      rect:
+        serializedVersion: 2
+        x: 3353
+        y: 342
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6f587c38254474a8c3ed77127df65f
+      internalID: 4391090769681871137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_66
+      rect:
+        serializedVersion: 2
+        x: 3695
+        y: 342
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11849e2b7c58e44a88d6c4926095743
+      internalID: 3612867801694675629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_67
+      rect:
+        serializedVersion: 2
+        x: 4035
+        y: 342
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9030961888018c942bc442171e0ccd9c
+      internalID: 148183350731425853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 306
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8562797140918284c9bd9f8c94cd1456
+      internalID: 7735521807355044482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_69
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 0
+        width: 322
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028098d182a49ba41977f4f3ad0fdb72
+      internalID: -8752487689356865680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_70
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 0
+        width: 292
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa78bd4ed9c6343449353b38058e1898
+      internalID: -671842625434384390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_71
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 294
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6a444d222c22845bbfd232636d5f9f
+      internalID: -4779005008429926624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_72
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 268
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1815c371181e99438772cd4fa053011
+      internalID: 7874163260622216026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_73
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 274
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ce46d1e6656904b858388fe87f7fe3
+      internalID: 6423832548429889594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_74
+      rect:
+        serializedVersion: 2
+        x: 2051
+        y: 286
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24430947ede441b4cba89903dd415da0
+      internalID: 1773126083079027034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_75
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 270
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e8568836dc55649a27bb62ea55746a
+      internalID: -4438328747115285122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_76
+      rect:
+        serializedVersion: 2
+        x: 2073
+        y: 276
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c189a9d64e9ad4da4e806721b59ef2
+      internalID: -8425558902256826540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_77
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 0
+        width: 284
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4ccae6cd0e7244586423324f0a1673
+      internalID: 2370970175398137380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_78
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 0
+        width: 294
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712016611c4896c4fb095b1d20fd2ccb
+      internalID: -6943205496666695013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_79
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 266
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f893ccfbd490744a99bff4fd92fc7f
+      internalID: -2315345996579374193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_80
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 242
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562a4caf3273610499f452ab5abcae92
+      internalID: 8344859117139146376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_81
+      rect:
+        serializedVersion: 2
+        x: 2107
+        y: 6
+        width: 216
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b409f18aadf07e4d9b5bd97ef80c9dd
+      internalID: -3620061451045607627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_82
+      rect:
+        serializedVersion: 2
+        x: 2169
+        y: 248
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d3896e15a388e489a0c1363908e77e
+      internalID: 303979956788128670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_83
+      rect:
+        serializedVersion: 2
+        x: 2175
+        y: 252
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68cd39864cec82941b36a4582c8f12f3
+      internalID: -8088671857281639542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_84
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 240
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb81adc86ba4204f84c59e08ed80ad5
+      internalID: 5221007598726097268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_85
+      rect:
+        serializedVersion: 2
+        x: 2119
+        y: 240
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a9138e6c15c244c98e33539e5694df
+      internalID: -1736420077964486323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_86
+      rect:
+        serializedVersion: 2
+        x: 2467
+        y: 240
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b91da7b8c1615943b81e111ff4df972
+      internalID: 5592311637754548730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_87
+      rect:
+        serializedVersion: 2
+        x: 2593
+        y: 240
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7e9a3aa7c3d6b43a7cdb7b10cf90e5
+      internalID: -3252098536159475930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_88
+      rect:
+        serializedVersion: 2
+        x: 2621
+        y: 234
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4850ee057a57fc489ac41987bc0e38c
+      internalID: -6655465278890788008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_89
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 224
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a5aa97597bd79419df68cd374ef417
+      internalID: -6845833985885507321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_90
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 220
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c081a987a42014297d8e3999c0a306
+      internalID: -8543887358651032213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_91
+      rect:
+        serializedVersion: 2
+        x: 2443
+        y: 220
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4612b3cf63f1044e9c9872584799c66
+      internalID: -3414336966408491686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_92
+      rect:
+        serializedVersion: 2
+        x: 2481
+        y: 224
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4847432470dd2334a8d7910cdb33e9ac
+      internalID: 285039040805405974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_93
+      rect:
+        serializedVersion: 2
+        x: 2557
+        y: 220
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26cafa0c976900a4c8db3f018d5f01db
+      internalID: -7616015661908519289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_94
+      rect:
+        serializedVersion: 2
+        x: 2639
+        y: 220
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd2994c46d21f3408aa58758b434d35
+      internalID: 1372880429936625540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_95
+      rect:
+        serializedVersion: 2
+        x: 2975
+        y: 212
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4805f8906e26cf84a9a165c4cf8b3eb7
+      internalID: 2844917278639778804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_96
+      rect:
+        serializedVersion: 2
+        x: 2631
+        y: 218
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9d4d24bf037f04c8c482681fe1dff0
+      internalID: 7480014820292460945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_97
+      rect:
+        serializedVersion: 2
+        x: 2651
+        y: 220
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2bae9c40d63c040b4563bfb0ce464d
+      internalID: 6562942128722733455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_98
+      rect:
+        serializedVersion: 2
+        x: 2525
+        y: 202
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11920207e9256784eb589bfdf1af051d
+      internalID: -462683082821000694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_99
+      rect:
+        serializedVersion: 2
+        x: 2577
+        y: 204
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7783885cabbfff4a927d3f8678f59a1
+      internalID: 3397588882396055396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_100
+      rect:
+        serializedVersion: 2
+        x: 2645
+        y: 216
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae12d272b6891647b73a1626039ff55
+      internalID: -7697067163252912777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_101
+      rect:
+        serializedVersion: 2
+        x: 2919
+        y: 210
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29649464e5e35d4da5af5b60ce21b8c
+      internalID: -3992258387627234629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_102
+      rect:
+        serializedVersion: 2
+        x: 2049
+        y: 202
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deebbab4860c2c14193c292b49f43838
+      internalID: -6341846590056580627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_103
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 210
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85660d6ba9fbc646a62fc1d0ab9790e
+      internalID: 91739586075347345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_104
+      rect:
+        serializedVersion: 2
+        x: 2569
+        y: 208
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2d668229471864b844f1ec39730c73
+      internalID: 8233585767308079090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_105
+      rect:
+        serializedVersion: 2
+        x: 2599
+        y: 210
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9c410b91f57974aacefa0699a76c2f
+      internalID: -2286158323102457333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_106
+      rect:
+        serializedVersion: 2
+        x: 2643
+        y: 212
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa12d5ad6a763947960939d4162f821
+      internalID: 7192319405853101553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_107
+      rect:
+        serializedVersion: 2
+        x: 2111
+        y: 202
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ea658c0a880fa4297da583e1737cd3
+      internalID: -2704992614633038518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_108
+      rect:
+        serializedVersion: 2
+        x: 2493
+        y: 198
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53f91cf64347294988f17b88aef9b64
+      internalID: 5519588030818743861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_109
+      rect:
+        serializedVersion: 2
+        x: 2513
+        y: 200
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25031af5d9f6b1d4989f208de28991cc
+      internalID: -874658313750250123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_110
+      rect:
+        serializedVersion: 2
+        x: 2613
+        y: 194
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c3d963fbd6447468730b315036a3a4
+      internalID: -4107143900870797388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_111
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 192
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5357a9fa27d3ef042a72378cf6b1d7bd
+      internalID: 2189155546156442187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_112
+      rect:
+        serializedVersion: 2
+        x: 2049
+        y: 188
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4cd852d6fcf34b45b5fb3e4573c5684
+      internalID: -212678063245510591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_113
+      rect:
+        serializedVersion: 2
+        x: 2053
+        y: 192
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acbca9239d1938c43894b44a48670c6d
+      internalID: -306737879386537971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_114
+      rect:
+        serializedVersion: 2
+        x: 2081
+        y: 178
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43bfd7cd185c09945ab5acc700ee1534
+      internalID: -1270994267155039527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_115
+      rect:
+        serializedVersion: 2
+        x: 2535
+        y: 190
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa54aa280aebbc04bba5551b561326e2
+      internalID: 5380119301425899568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_116
+      rect:
+        serializedVersion: 2
+        x: 2589
+        y: 178
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0136c2622c8a84a814110e022bb7c8
+      internalID: -1343126090959784282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_117
+      rect:
+        serializedVersion: 2
+        x: 2645
+        y: 192
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9a65ea98f913343a7e08afdcf1f984
+      internalID: 5891260738208703149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_118
+      rect:
+        serializedVersion: 2
+        x: 2991
+        y: 192
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a19b1e3dac64a4181828201d5dc5ee
+      internalID: -1420110057773331816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_119
+      rect:
+        serializedVersion: 2
+        x: 2321
+        y: 182
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84bcedfe2b647ac48892deed0a3cafb2
+      internalID: -2418187443115482840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_120
+      rect:
+        serializedVersion: 2
+        x: 2493
+        y: 180
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626cc182b30a74f49b78fc7c20f0ed83
+      internalID: -8928498998323508361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_121
+      rect:
+        serializedVersion: 2
+        x: 2525
+        y: 164
+        width: 52
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384242cc4952aaa4fb6b0b775c077808
+      internalID: -6445028604814649136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_122
+      rect:
+        serializedVersion: 2
+        x: 2049
+        y: 142
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0d2b59641eab2488e6730a58d23409
+      internalID: -8168291164306352283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_123
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 164
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2839c819c67a9c44b4c9b7d7fcaba98
+      internalID: -2926659794542175364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_124
+      rect:
+        serializedVersion: 2
+        x: 2319
+        y: 172
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed2ff68063dcb445b6bd70c4bebaac7
+      internalID: -6082515629135582166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_125
+      rect:
+        serializedVersion: 2
+        x: 2497
+        y: 160
+        width: 4
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3fb81a8ebf428041bd80f3506962900
+      internalID: -4435136707814070123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_126
+      rect:
+        serializedVersion: 2
+        x: 2913
+        y: 174
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5830bf3957ef34f9a54e9122424007
+      internalID: 1754489962824646084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_127
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 166
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ba1cad317abed40bec7211a6c11c31
+      internalID: -2327970659235882665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_128
+      rect:
+        serializedVersion: 2
+        x: 2327
+        y: 164
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa80b52d0a3389d4a9097c2e2a0db7d5
+      internalID: -6433558606704654211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_129
+      rect:
+        serializedVersion: 2
+        x: 2549
+        y: 68
+        width: 112
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97983d17c0932444c8bd2176c82851b5
+      internalID: 8676102800058847054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_130
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 150
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b34e0e769df5fc448c4bbbb8dc82ad7
+      internalID: 7715659244471456188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_131
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 152
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f5071f93c5a6c45bbe6b025ddc2773
+      internalID: 1826506450749433384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_132
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 154
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05297ffa40e09ed4d8ef5532cc3b4332
+      internalID: 9148557238423856263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_133
+      rect:
+        serializedVersion: 2
+        x: 2403
+        y: 148
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c9487ac948c8c4e887051c940b0d4b
+      internalID: -4912421074259989527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_134
+      rect:
+        serializedVersion: 2
+        x: 2933
+        y: 122
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086f81fbf44c91942aa2099da1a95867
+      internalID: -701507875974951989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_135
+      rect:
+        serializedVersion: 2
+        x: 3283
+        y: 122
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9be8ea5184fd0e42843f7389f179757
+      internalID: -460116974435006133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_136
+      rect:
+        serializedVersion: 2
+        x: 2985
+        y: 144
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558545fdb3329e046aca901d6f3d1d82
+      internalID: -2319484451750450376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_137
+      rect:
+        serializedVersion: 2
+        x: 2497
+        y: 130
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e27a26e6c8068c47959b01296289dba
+      internalID: -191015125339945212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_138
+      rect:
+        serializedVersion: 2
+        x: 2469
+        y: 80
+        width: 58
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a7533612a108f4aa721fb76a11f0f9
+      internalID: 8974915678726679028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_139
+      rect:
+        serializedVersion: 2
+        x: 2927
+        y: 122
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac25086162d54b40bc7e6ac4dc6413d
+      internalID: 1970946350631375868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_140
+      rect:
+        serializedVersion: 2
+        x: 2533
+        y: 106
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a316846870d674b9a7891d9e23b262
+      internalID: -1997599279202117908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_141
+      rect:
+        serializedVersion: 2
+        x: 2811
+        y: 86
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb48bd81c43ded94c8bed70f00ef79d2
+      internalID: 8659331071322653214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_142
+      rect:
+        serializedVersion: 2
+        x: 2851
+        y: 98
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8018ebe24863d7a429a7bb409d97232d
+      internalID: 4322123535709398395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_143
+      rect:
+        serializedVersion: 2
+        x: 2899
+        y: 90
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e2d79db70c13341b417862c2c6162a
+      internalID: -3552896259548912488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_144
+      rect:
+        serializedVersion: 2
+        x: 2927
+        y: 68
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be3657c0f804bb4b96e0fdd1a1fcef3
+      internalID: -5689839308685505136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_145
+      rect:
+        serializedVersion: 2
+        x: 3295
+        y: 106
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1d33b2647ca2c44b6aa217b11bf625
+      internalID: -2177193630554826259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_146
+      rect:
+        serializedVersion: 2
+        x: 3291
+        y: 100
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad33e6cd2decfd045ae8091c231fd1e7
+      internalID: 7409474938238206396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_147
+      rect:
+        serializedVersion: 2
+        x: 2857
+        y: 88
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a96d704a49076489d795cda3a43374
+      internalID: -5809033415355495420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_148
+      rect:
+        serializedVersion: 2
+        x: 2921
+        y: 88
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9435096480e2fa946b6f90e06ca32de4
+      internalID: -2243575490291222882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_149
+      rect:
+        serializedVersion: 2
+        x: 3291
+        y: 80
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dfcbf26bcdd732489cbeab17096ee7e
+      internalID: -5936842446707308262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_150
+      rect:
+        serializedVersion: 2
+        x: 2529
+        y: 64
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd999bc155d9eb4eaa914c9e6d68e4a
+      internalID: -6525627305451699683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_151
+      rect:
+        serializedVersion: 2
+        x: 2539
+        y: 78
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d7c971db9636a42a52aea3ab1eda33
+      internalID: 7480259635941840474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_152
+      rect:
+        serializedVersion: 2
+        x: 2565
+        y: 52
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1e6ec20bc29444aa6846e607aa7de9
+      internalID: 1553744616266401877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_153
+      rect:
+        serializedVersion: 2
+        x: 2915
+        y: 74
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad644c33808e18a48b6d8d1570a9d304
+      internalID: -8654099140344182704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_154
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 50
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d92ff1ed8302f4cb9ef231b53a21ef
+      internalID: 2452626596123515329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_155
+      rect:
+        serializedVersion: 2
+        x: 2463
+        y: 44
+        width: 48
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd8eff070354ca4d82b3b5529ed308f
+      internalID: -995556990134991561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_156
+      rect:
+        serializedVersion: 2
+        x: 2509
+        y: 70
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301a133fc36d4de47b1040cae5b78b92
+      internalID: 2549123415349013339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_157
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 54
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00ce27862dc49f43ac1e28781dda44d
+      internalID: -3989385208424229853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_158
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 62
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e871c2a8d090a42a23949116b5822a
+      internalID: -2851792248842159918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_159
+      rect:
+        serializedVersion: 2
+        x: 2509
+        y: 42
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a86824ac16a204084c9af540f8991e
+      internalID: -3065974575547968899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_160
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 40
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f897aee2a598d4d478652fb237950fbb
+      internalID: -6557969480590649738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_161
+      rect:
+        serializedVersion: 2
+        x: 2839
+        y: 56
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba379d84259acd408ddc19b0e4bbbb3
+      internalID: -4271173086937213476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_162
+      rect:
+        serializedVersion: 2
+        x: 2825
+        y: 50
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a569b389ef29ff4881bec34caff2af4
+      internalID: -1963148177638077972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_163
+      rect:
+        serializedVersion: 2
+        x: 2859
+        y: 54
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4da3c461469dfb40bfbc7e3d8a19890
+      internalID: -6897949568731707862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_164
+      rect:
+        serializedVersion: 2
+        x: 2613
+        y: 38
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ed03a3b8b99f24782c3af8ec9fa842
+      internalID: -7024389466567567929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_165
+      rect:
+        serializedVersion: 2
+        x: 2645
+        y: 40
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b5acb03dc9bbf4ebfa07afb98da944
+      internalID: -8885778870374971470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_166
+      rect:
+        serializedVersion: 2
+        x: 2805
+        y: 46
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b304fa8abf2ad7f4bb5b9767b9076639
+      internalID: -4639257152035043550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_167
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 8
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26242ce617f6e30408d151a1329c2088
+      internalID: -6336491018509457050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_168
+      rect:
+        serializedVersion: 2
+        x: 2501
+        y: 38
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4dc0541ae679c4bbdb8e4f37da4b7a
+      internalID: -8876823689263385067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_169
+      rect:
+        serializedVersion: 2
+        x: 2957
+        y: 42
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01bc184d2ef4a8d4087c6e112fe0b915
+      internalID: 526173429956094516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_170
+      rect:
+        serializedVersion: 2
+        x: 2605
+        y: 30
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0ffce8eebe95949b173ff8b363065d
+      internalID: -6077564164489277970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_171
+      rect:
+        serializedVersion: 2
+        x: 2643
+        y: 28
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266331a976056174c9427e4b9d056337
+      internalID: 5729195201107968595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trzcacak.rs-smoke-texture-png-1156443_172
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3095c94bed7539f4f90a2220a523b4bd
+      internalID: -183020932677576495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

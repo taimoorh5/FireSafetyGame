@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: f0c53278ed5f9494bbf0c1670fdc8c41
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9168847195957913751
+    second: pngkey.com-fire-particles-png-2028007_0
+  - first:
+      213: 991913143905720867
+    second: pngkey.com-fire-particles-png-2028007_1
+  - first:
+      213: -3779051367513910459
+    second: pngkey.com-fire-particles-png-2028007_2
+  - first:
+      213: -8442119026395066636
+    second: pngkey.com-fire-particles-png-2028007_3
+  - first:
+      213: 2059110265012282481
+    second: pngkey.com-fire-particles-png-2028007_4
+  - first:
+      213: 6026368639181800345
+    second: pngkey.com-fire-particles-png-2028007_5
+  - first:
+      213: 2203299416696193931
+    second: pngkey.com-fire-particles-png-2028007_6
+  - first:
+      213: 8408871926079154362
+    second: pngkey.com-fire-particles-png-2028007_7
+  - first:
+      213: 8102753056397156916
+    second: pngkey.com-fire-particles-png-2028007_8
+  - first:
+      213: -1616960310098668171
+    second: pngkey.com-fire-particles-png-2028007_9
+  - first:
+      213: -7214876320799978877
+    second: pngkey.com-fire-particles-png-2028007_10
+  - first:
+      213: 6185184391128004161
+    second: pngkey.com-fire-particles-png-2028007_11
+  - first:
+      213: -3996967305346763299
+    second: pngkey.com-fire-particles-png-2028007_12
+  - first:
+      213: -138396950141993739
+    second: pngkey.com-fire-particles-png-2028007_13
+  - first:
+      213: 3400065976787976417
+    second: pngkey.com-fire-particles-png-2028007_14
+  - first:
+      213: -4900901851899907639
+    second: pngkey.com-fire-particles-png-2028007_15
+  - first:
+      213: 7788797614110022757
+    second: pngkey.com-fire-particles-png-2028007_16
+  - first:
+      213: -4500578962530902673
+    second: pngkey.com-fire-particles-png-2028007_17
+  - first:
+      213: 3091420307763040655
+    second: pngkey.com-fire-particles-png-2028007_18
+  - first:
+      213: 2578874282096715560
+    second: pngkey.com-fire-particles-png-2028007_19
+  - first:
+      213: -783352891825619712
+    second: pngkey.com-fire-particles-png-2028007_20
+  - first:
+      213: 477628294127018760
+    second: pngkey.com-fire-particles-png-2028007_21
+  - first:
+      213: -2777188404265344574
+    second: pngkey.com-fire-particles-png-2028007_22
+  - first:
+      213: 8577385440726513951
+    second: pngkey.com-fire-particles-png-2028007_23
+  - first:
+      213: 3460278763930423745
+    second: pngkey.com-fire-particles-png-2028007_24
+  - first:
+      213: 764477439950385719
+    second: pngkey.com-fire-particles-png-2028007_25
+  - first:
+      213: 7109179715642321275
+    second: pngkey.com-fire-particles-png-2028007_26
+  - first:
+      213: -4685098547752805912
+    second: pngkey.com-fire-particles-png-2028007_27
+  - first:
+      213: 943766624444516726
+    second: pngkey.com-fire-particles-png-2028007_28
+  - first:
+      213: 3122787367511985710
+    second: pngkey.com-fire-particles-png-2028007_29
+  - first:
+      213: -7702405549812585735
+    second: pngkey.com-fire-particles-png-2028007_30
+  - first:
+      213: 984765326344705712
+    second: pngkey.com-fire-particles-png-2028007_31
+  - first:
+      213: 4903559845762042975
+    second: pngkey.com-fire-particles-png-2028007_32
+  - first:
+      213: -4657479619603691812
+    second: pngkey.com-fire-particles-png-2028007_33
+  - first:
+      213: 6752590449095136913
+    second: pngkey.com-fire-particles-png-2028007_34
+  - first:
+      213: 9222341379595773585
+    second: pngkey.com-fire-particles-png-2028007_35
+  - first:
+      213: 3883004800769969597
+    second: pngkey.com-fire-particles-png-2028007_36
+  - first:
+      213: -4680249891170454398
+    second: pngkey.com-fire-particles-png-2028007_37
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngkey.com-fire-particles-png-2028007_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 530
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a577abcac2c8e489c969e72e9217e7
+      internalID: 9168847195957913751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-fire-particles-png-2028007_1
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 529
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5100053c5b974841bed0fd2b277a038
+      internalID: 991913143905720867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-fire-particles-png-2028007_2
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 530
+        width: 67
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51282d9bd6596c43a18117da1385fde
+      internalID: -3779051367513910459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-fire-particles-png-2028007_3
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 527
+        width: 69
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13411cbe56d9da24396ad9b6ad83fcfd
+      internalID: -8442119026395066636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-fire-particles-png-2028007_4
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 525
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcdb6a66cbd77b140ae4aeeb866b7b50
+      internalID: 2059110265012282481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-fire-particles-png-2028007_5
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 524
+        width: 64
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b76232887ff7df4da39cd2839df5fa4
+      internalID: 6026368639181800345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-fire-particles-png-2028007_6
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 482
+        width: 64
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6af0c0b38348248b91a5d1d985b220
+      internalID: 2203299416696193931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-fire-particles-png-2028007_7
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 482
+        width: 68
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660ffa71b6d4651408adcb2b3d5d9fec
+      internalID: 8408871926079154362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-fire-particles-png-2028007_8
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 387
+        width: 72
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d0123059a76304592a4abc90f941f9
+      internalID: 8102753056397156916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-fire-particles-png-2028007_9
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 382
+        width: 78
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e4316bf0b222d469eac1fa9dffcd68
+      internalID: -1616960310098668171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-fire-particles-png-2028007_10
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 379
+        width: 84
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc254316e80066740a79c0be61ba1da6
+      internalID: -7214876320799978877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-fire-particles-png-2028007_11
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 376
+        width: 89
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e4739da6bab1f488c436fa27bc2a66
+      internalID: 6185184391128004161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-fire-particles-png-2028007_12
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 376
+        width: 92
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626a903a5b747ab4ca093f1fd7c7172a
+      internalID: -3996967305346763299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-fire-particles-png-2028007_13
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 377
+        width: 93
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8800a6c6bba4194d9aa36958b965ec7
+      internalID: -138396950141993739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-fire-particles-png-2028007_14
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 378
+        width: 96
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61025efd8e79154db8f4ad5ee880226
+      internalID: 3400065976787976417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-fire-particles-png-2028007_15
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 383
+        width: 92
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c3eb1912531ac4bb9d8bad1b2b52cf
+      internalID: -4900901851899907639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-fire-particles-png-2028007_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 259
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38de57ba661eb6e49b7fd89e0b746af7
+      internalID: 7788797614110022757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-fire-particles-png-2028007_17
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 257
+        width: 100
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc53fcf7865c73e4e8bd7e420d1e8938
+      internalID: -4500578962530902673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-fire-particles-png-2028007_18
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 257
+        width: 97
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5fc479391c6b404da65d082076ac44f
+      internalID: 3091420307763040655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-fire-particles-png-2028007_19
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 263
+        width: 97
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f735377e7fb5d4cb20eb6cbb8ad570
+      internalID: 2578874282096715560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-fire-particles-png-2028007_20
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 263
+        width: 97
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96ac6e473946f948827df8e2d084c6a
+      internalID: -783352891825619712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-fire-particles-png-2028007_21
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 262
+        width: 95
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1380fef5e4030c4b885da321ff2cc29
+      internalID: 477628294127018760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-fire-particles-png-2028007_22
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 260
+        width: 92
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5ec52515535d3439263744c021670c
+      internalID: -2777188404265344574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-fire-particles-png-2028007_23
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 260
+        width: 89
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7848005c18e824ca8b702ac4324d47
+      internalID: 8577385440726513951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-fire-particles-png-2028007_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 133
+        width: 87
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f69f641049a73944a1e74bedb0143b8
+      internalID: 3460278763930423745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-fire-particles-png-2028007_25
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 137
+        width: 86
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df77e3ee4ca947749b570374b6327f79
+      internalID: 764477439950385719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-fire-particles-png-2028007_26
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 135
+        width: 85
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15eaf648126598469f37921a64cca0e
+      internalID: 7109179715642321275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-fire-particles-png-2028007_27
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 134
+        width: 84
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b34fcbc43fc23f4ebd53598cd901ec7
+      internalID: -4685098547752805912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-fire-particles-png-2028007_28
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 133
+        width: 90
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82316fa5f63341841abe6446a18a3abf
+      internalID: 943766624444516726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-fire-particles-png-2028007_29
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 134
+        width: 89
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e68c3550adc3da4697d30cd47c63c04
+      internalID: 3122787367511985710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-fire-particles-png-2028007_30
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 133
+        width: 84
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbaeeeae18b9e40428eac207fe147ca6
+      internalID: -7702405549812585735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-fire-particles-png-2028007_31
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 132
+        width: 85
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6188f031947d3841a73955530f3f714
+      internalID: 984765326344705712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-fire-particles-png-2028007_32
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 87
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b5fc544d7100a4aa3cceb7d6bd07fe
+      internalID: 4903559845762042975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-fire-particles-png-2028007_33
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 4
+        width: 88
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e4ec1db9d865e4084084977eac14b0
+      internalID: -4657479619603691812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-fire-particles-png-2028007_34
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 3
+        width: 90
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e928ae67938abab48bfd1a4dba1e9e75
+      internalID: 6752590449095136913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-fire-particles-png-2028007_35
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 2
+        width: 89
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded329294314a204685ce97325e63bb0
+      internalID: 9222341379595773585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-fire-particles-png-2028007_36
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 2
+        width: 89
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797148dac2be2ff479b2066771d8543e
+      internalID: 3883004800769969597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-fire-particles-png-2028007_37
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 5
+        width: 91
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277b539956cc9f543b793a90c543d395
+      internalID: -4680249891170454398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
